@@ -18,4 +18,4 @@ Feature: Reportes automáticos
   Scenario: Contenido del Reporte
     Given que se cree un reporte
     When se descargue
-    Then debe mostrar los signos vitales y evolución reciente
+    Then debe mostrar los signos vitales y evolución reciente 
